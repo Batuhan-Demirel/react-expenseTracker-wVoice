@@ -1,0 +1,8 @@
+#root ,html ,body{
+    height: 100%;
+    margin: 0;
+}
+body{
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(./assets/bg.png);
+    background-size: cover;
+}
